@@ -11,7 +11,5 @@
 
   <ItemGroup>
     <Folder Include="examples\" />
-    <Folder Include="src\OpenAI.SDK\Common\" />
-    <Folder Include="src\OpenAI.SDK\Tests\" />
   </ItemGroup>
 </Project>
